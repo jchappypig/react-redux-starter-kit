@@ -7,7 +7,7 @@ A workshop for [WOMEN WHO CODE Sydney](https://www.womenwhocode.com/sydney), whi
 ## Requirements
 * node `^5.10.0`
 * yarn `^0.23.0` or npm `^3.0.0`
-* Editor of your choise, preferrable VSCode
+* Editor of your choice, preferably VSCode
 
 > Only do the following if you don't have node and yarn installed
 >
